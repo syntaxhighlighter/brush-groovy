@@ -1,6 +1,6 @@
 # syntaxhighlighter/brush-groovy
 
-groovy brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
+Groovy brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
 [![Build Status](https://travis-ci.org/alexgorbatchev/brush-groovy.svg)](https://travis-ci.org/alexgorbatchev/brush-groovy)
 
