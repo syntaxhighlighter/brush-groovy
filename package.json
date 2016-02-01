@@ -1,5 +1,5 @@
 {
-  "name": "brush-groovy",
+  "name": "@alexgorbatchev/brush-groovy",
   "version": "4.0.0",
   "description": "groovy brush module for SyntaxHighlighter.",
   "keywords": [
