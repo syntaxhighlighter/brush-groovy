@@ -2,11 +2,11 @@
 
 Groovy brush module for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/brush-groovy.svg)](https://travis-ci.org/alexgorbatchev/brush-groovy)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/brush-groovy.svg)](https://travis-ci.org/syntaxhighlighter/brush-groovy)
 
 ## Installation
 
-    npm install syntaxhighlighter/brush-groovy
+    npm install @alexgorbatchev/brush-groovy
 
 ## Testing
 
